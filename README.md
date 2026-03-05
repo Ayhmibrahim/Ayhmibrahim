@@ -1,42 +1,95 @@
-# 👋 Hi, I'm Ayham
+<div align="center">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%3B" alt="Typing SVG" />
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/eng-ahmed-mohamed-dev/eng-ahmed-mohamed-dev/main/hello-coders.gif" 
+    width="60%" 
+    alt="Hello Coders" 
+  />
 </p>
 
-### A developer striving for excellence through strong programming logic 🧠
+<h1>Hi 👋 I'm Ayhm Ibrahim</h1>
 
-I don't believe in writing code just so it "works." I focus on building efficient, organized, and readable software. I spend my time building functional systems and solving complex programming challenges.
+<h3>
+Programming Student & Content Creator <br/>
+Mastering Software Engineering via Abu-Hadhoud Roadmap 🚀
+</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayhmibrahim&style=flat&color=orange&label=PROFILE+VIEWS" />
+</p>
 
-### 🚀 Functional Systems & Projects
-I have built these systems to apply everything I've learned about programming logic and data management:
-
-* ✂️ **[Stone Paper Scissor Game](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)**
-
----
-
-### 📈 Learning Progress
-I have successfully completed **10 levels** of deep programming foundations and am currently working on Level 11 (OOP Applications).
-
-> 🔗 You can view the full **Roadmap** and details of each stage [here](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-FFD700?style=for-the-badge&logo=probot&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+## 👨‍💻 About Me
+- 🎓 **22 years old** student, building a solid foundation in Software Engineering.
+  <img align="right" 
+       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" 
+       width="120" />
+- 💻 Following the **Abu-Hadhoud Programming Roadmap** to master the fundamentals.
+- 🎬 **Content Creator** focused on tech, productivity, and learning journeys.
+- 🧠 Deeply interested in **Management & Project Organization**.
+- 🎯 Philosophy: **Kaizen** (Continuous Improvement) in life and code.
+- 🚀 Current Focus: Mastering Programming Logic & Fundamentals.
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [Link](https://www.linkedin.com/in/ayhm-ibrahim/)
-* **Email:** [[](https://www.linkedin.com/in/ayhm-ibrahim/)]
+## 🧑‍💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</p>
 
 ---
-*"Software is the language of our time, and I am learning to speak it fluently."*
+
+## 📚 My Learning Journey (Abu-Hadhoud Roadmap)
+- [ ] 🔹 Level 1: Programming Foundations (In Progress ⚡)
+- [ ] 🔹 Level 2: C++ Basics
+- [ ] 🔹 Level 3: Algorithms & Problem Solving
+- [ ] 🔹 Level 4: Data Structures & OOP
+- [ ] 🔜 Future: Advanced Software Architecture & Management.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayhmibrahim&theme=tokyonight" 
+    width="45%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayhmibrahim&theme=tokyonight" 
+    width="45%" 
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+
+<a href="https://www.youtube.com/@AyhmIbrahem/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayhm-ibrahim">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayhmibrhim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🧩 Mindset
+- 📈 **Continuous Growth:** Learning isn't a race, it's a marathon.
+- 🎬 **Documentation:** Sharing what I learn helps me and others grow.
+- 🛠️ **Management:** Efficient systems lead to better code and better life.

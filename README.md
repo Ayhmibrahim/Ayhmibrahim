@@ -15,11 +15,6 @@ I don't believe in writing code just so it "works." I focus on building efficien
 ### 🚀 Functional Systems & Projects
 I have built these systems to apply everything I've learned about programming logic and data management:
 
-* 🏧 **[ATM System](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Project-2-ATM-System)**
-* 🏦 **[Bank System - Extension 2](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Bank-Extension-2)**
-* 💳 **[Bank System - Extension 1](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
-* 🏛️ **[Bank System - Basic](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)**
-* 🧮 **[Math Game](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**
 * ✂️ **[Stone Paper Scissor Game](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)**
 
 ---
@@ -40,7 +35,7 @@ I have successfully completed **10 levels** of deep programming foundations and 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [](https://www.linkedin.com/in/ayhm-ibrahim/)
+* **LinkedIn:** [Link](https://www.linkedin.com/in/ayhm-ibrahim/)
 * **Email:** [[](https://www.linkedin.com/in/ayhm-ibrahim/)]
 
 ---

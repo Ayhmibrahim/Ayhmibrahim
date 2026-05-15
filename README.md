@@ -66,7 +66,7 @@ Mastering Software Engineering via Abu-Hadhoud Roadmap 🚀
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.youtube.com/@AyhmIbrahem/videos">
+<a href="[https://www.youtube.com/@AyhmIbrahem/videos](https://www.youtube.com/@Ayhm.Ibrahem/videos)">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
